@@ -33,3 +33,7 @@ In this project you will apply following concepts.
 Dataframe slicing
 Dataframe aggregation
 Pivot table operation
+
+
+FOLLOWING QUESTIONS WERE SOLVED AFTER ANALYSING THE DATASET 
+LOAD THE DATA , FIND THE MISSING VALUES ? , LOAN AMOUNT VS GENDER ? , Loan Approval vs Employment , Transform the loan tenure from months to years , Income/ Credit History vs Loan Amount
