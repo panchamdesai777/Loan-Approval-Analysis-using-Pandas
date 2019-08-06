@@ -32,4 +32,4 @@ After completing this project, you will have better grip on working with pandas.
 In this project you will apply following concepts.
 Dataframe slicing
 Dataframe aggregation
-Pivot table operations
+Pivot table operation
